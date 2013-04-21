@@ -1,0 +1,28 @@
+﻿body {
+
+}
+
+h1 {
+    background-color:navy;
+    color:white;
+    border:5px solid black;
+    text-align:center;
+}
+
+.buttonclass {
+    background-color:black;
+    color:white;
+    width:75px;
+}
+
+.clock {
+    background-color:navy;
+    color:white;
+    border:5px solid black;
+    font-size:300%;
+}
+
+.results {
+    font:size:200%;
+    color:green;
+}
